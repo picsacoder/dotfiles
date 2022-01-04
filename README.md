@@ -2,9 +2,18 @@
 
 ## Things before install the dotfiles
 <ul>
-  <li>Polybar Themes</li>
-  <li>Polybar</li>
-  <li>i3wm</li>
+  
+  <a href="https://github.com/adi1090x/polybar-themes">
+  	<li>Polybar Themes</li>
+  </a>
+  
+  <a href="https://polybar.github.io/"> 
+  	<li>Polybar</li>
+  </a>
+  
+  <a href="https://i3wm.org/">
+  	<li>i3wm</li>
+  </a>
 </ul>
 
 ## Install 
@@ -19,7 +28,7 @@ $ cd dotfiles
 
 ### Then just copy the directorys 
 ```
-$ cp -r i3 ~/.config/
+$ cp -r * ~/.config/
 ```
 
 ## Preview
