@@ -1,0 +1,8 @@
+[02/01/2022 22:10:13 - INFO] Discord Presence activated
+[02/01/2022 22:10:13 - INFO] Creating discord-rpc client
+[02/01/2022 22:10:13 - INFO] Successfully connected to Discord
+[02/01/2022 22:10:13 - DEBUG] Loading git extension
+[02/01/2022 22:10:13 - TRACE] Git extension not activated, activating...
+[02/01/2022 22:10:13 - DEBUG] Loading git extension
+[02/01/2022 22:10:13 - TRACE] Git extension not activated, activating...
+[02/01/2022 22:10:13 - TRACE] VSCode language id: javascript

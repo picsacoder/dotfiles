@@ -1,0 +1,7 @@
+[2022-01-01 09:50:25.702] [sharedprocess] [info] Starting worker process with pid 6904 (type: watcherServiceParcelSharedProcess, window: 1).
+[2022-01-01 09:51:18.562] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-01-01 09:51:19.797] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/pcsa/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.11.0
+[2022-01-01 09:51:20.678] [sharedprocess] [info] Extracted extension to /home/pcsa/.vscode/extensions/.372876a2-3066-4d7f-bfe3-ed45b96e90af: pkief.material-icon-theme
+[2022-01-01 09:51:20.684] [sharedprocess] [info] Renamed to /home/pcsa/.vscode/extensions/pkief.material-icon-theme-4.11.0
+[2022-01-01 09:51:20.685] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-01-01 09:51:20.687] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme

@@ -1,0 +1,5 @@
+[2021-12-30 19:42:09.374] [main] [info] update#setState idle
+[2021-12-30 19:42:09.414] [main] [info] ExtensionHostStarterWorker created
+[2021-12-30 19:42:10.521] [main] [info] Starting extension host with pid 102819 (fork() took 25 ms).
+[2021-12-30 19:42:14.246] [main] [info] Waiting for extension host with pid 102819 to exit.
+[2021-12-30 19:42:14.256] [main] [info] Extension host with pid 102819 exited with code: 0, signal: null.

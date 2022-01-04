@@ -1,0 +1,8 @@
+[31/12/2021 10:08:18 - INFO] Discord Presence activated
+[31/12/2021 10:08:18 - INFO] Creating discord-rpc client
+[31/12/2021 10:08:18 - INFO] Successfully connected to Discord
+[31/12/2021 10:08:18 - DEBUG] Loading git extension
+[31/12/2021 10:08:18 - TRACE] Git extension not activated, activating...
+[31/12/2021 10:08:18 - DEBUG] Loading git extension
+[31/12/2021 10:08:18 - TRACE] Git extension not activated, activating...
+[31/12/2021 10:08:18 - TRACE] VSCode language id: plaintext

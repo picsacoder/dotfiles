@@ -1,0 +1,5 @@
+[2021-12-31 09:16:54.508] [main] [info] update#setState idle
+[2021-12-31 09:16:54.547] [main] [info] ExtensionHostStarterWorker created
+[2021-12-31 09:16:55.744] [main] [info] Starting extension host with pid 7940 (fork() took 19 ms).
+[2021-12-31 09:17:19.699] [main] [info] Waiting for extension host with pid 7940 to exit.
+[2021-12-31 09:17:19.699] [main] [info] Extension host with pid 7940 exited with code: 0, signal: null.

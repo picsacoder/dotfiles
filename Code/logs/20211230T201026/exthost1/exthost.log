@@ -1,0 +1,15 @@
+[2021-12-30 20:10:29.242] [exthost] [info] Extension host with pid 106029 started
+[2021-12-30 20:10:29.242] [exthost] [info] Skipping acquiring lock for /home/pcsa/.config/Code/User/workspaceStorage/80a35da89b434714039562b60978ec4a.
+[2021-12-30 20:10:29.293] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-30 20:10:29.300] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-30 20:10:29.302] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-30 20:10:29.303] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+[2021-12-30 20:10:29.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2021-12-30 20:10:29.388] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-30 20:10:29.571] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: icrawl.discord-vscode
+[2021-12-30 20:10:29.770] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-30 20:10:29.803] [exthost] [info] Eager extensions activated
+[2021-12-30 20:10:29.820] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-30 20:10:29.827] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-30 20:10:51.822] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-30 20:10:51.831] [exthost] [info] Extension host with pid 106029 exiting with code 0

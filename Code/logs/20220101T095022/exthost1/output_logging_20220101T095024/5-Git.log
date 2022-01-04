@@ -1,0 +1,26 @@
+Validating found git in: git
+Using git 2.34.1 from git
+> git rev-parse --git-dir
+Open repository: /home/pcsa/Documents/rest-server
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/pcsa/Documents/rest-server/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :controllers/users.controller.js
+> git ls-files --stage -- /home/pcsa/Documents/rest-server/controllers/users.controller.js
+> git cat-file -s 40af40078286714249f05a3d0822302c9cb3e0f2
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :controllers/users.controller.js
+> git ls-files --stage -- /home/pcsa/Documents/rest-server/controllers/users.controller.js
+> git cat-file -s 40af40078286714249f05a3d0822302c9cb3e0f2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/pcsa/Documents/rest-server/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template

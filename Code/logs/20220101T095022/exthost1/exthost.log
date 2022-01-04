@@ -1,0 +1,20 @@
+[2022-01-01 09:50:24.746] [exthost] [info] Extension host with pid 6824 started
+[2022-01-01 09:50:24.746] [exthost] [info] Skipping acquiring lock for /home/pcsa/.config/Code/User/workspaceStorage/80a35da89b434714039562b60978ec4a.
+[2022-01-01 09:50:24.872] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-01 09:50:24.885] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-01-01 09:50:24.905] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-01 09:50:24.915] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-01 09:50:24.920] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+[2022-01-01 09:50:24.931] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-01-01 09:50:25.652] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-01 09:50:25.667] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: icrawl.discord-vscode
+[2022-01-01 09:50:26.083] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-01 09:50:26.190] [exthost] [info] Eager extensions activated
+[2022-01-01 09:50:26.203] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-01 09:50:26.223] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-01 09:51:17.476] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-01 09:51:17.481] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-01 09:51:17.488] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-01 09:51:20.951] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-01 09:52:01.515] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-01 09:52:01.531] [exthost] [info] Extension host with pid 6824 exiting with code 0
